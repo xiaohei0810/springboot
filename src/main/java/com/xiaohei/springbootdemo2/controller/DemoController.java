@@ -16,7 +16,7 @@ public class DemoController {
 
     @GetMapping("/get")
     public String test(){
-        System.out.println("777777777777");
+        System.out.println("8888888888");
         return "welcome to my home";
     }
 
