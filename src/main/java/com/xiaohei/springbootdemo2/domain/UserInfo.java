@@ -26,5 +26,13 @@ public class UserInfo{
     
     @TableField(value = "password")
     private String password;
+
+
+
+
+    
+
+
+
     
 }
