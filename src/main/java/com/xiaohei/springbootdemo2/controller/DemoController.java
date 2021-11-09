@@ -33,7 +33,7 @@ public class DemoController {
         try {
             UserInfo userInfo = new UserInfo();
             userInfo.setUsername("aaaaaa");
-            userInfo.setPassword("bbbbbbb");
+            userInfo.setPassword("cccccccc");
             Integer result = userInfoMapper.insert(userInfo);
 
             int aaaa = 1 / 0;
