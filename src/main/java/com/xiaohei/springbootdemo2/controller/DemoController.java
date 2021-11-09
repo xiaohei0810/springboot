@@ -21,7 +21,7 @@ public class DemoController {
     @Autowired
     private UserInfoMapper userInfoMapper;
 
-    @GetMapping("/get")
+    @GetMapping("/get2222")
     public String test(){
         System.out.println("101010101001");
         return "welcome to my home33333";
