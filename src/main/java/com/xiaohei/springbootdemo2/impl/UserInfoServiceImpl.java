@@ -29,7 +29,7 @@ public class UserInfoServiceImpl implements UserInfoService {
             userInfo.setPassword("bbbbbbbbb");
             userInfoMapper.insert(userInfo);
 
-            int res = 1 / 0;
+            int res = 11/ 0;
 
             System.out.println("测试idea 第一次修改提交");
 
