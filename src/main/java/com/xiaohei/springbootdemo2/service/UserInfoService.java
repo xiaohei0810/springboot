@@ -14,5 +14,6 @@ import org.springframework.stereotype.Service;
 @Service
 public interface UserInfoService{
 
+    //撒打算大
     String insertInfo();
 }
