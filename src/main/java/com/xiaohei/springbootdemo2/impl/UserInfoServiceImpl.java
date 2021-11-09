@@ -31,6 +31,8 @@ public class UserInfoServiceImpl implements UserInfoService {
 
             int res = 1 / 0;
 
+            System.out.println("测试idea 第一次修改提交");
+
         }catch (Exception e){
             return "a";
         }
