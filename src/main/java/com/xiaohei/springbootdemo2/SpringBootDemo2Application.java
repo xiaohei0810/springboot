@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author xiaohei
  */
 @SpringBootApplication
-@MapperScan("com.xiaohei.springbootdemo2.persistence")
+//@MapperScan("com.xiaohei.springbootdemo2.persistence")
 public class SpringBootDemo2Application {
 
     public static void main(String[] args) {
