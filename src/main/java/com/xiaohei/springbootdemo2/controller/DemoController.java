@@ -32,7 +32,7 @@ public class DemoController {
     public String insert(){
         try {
             UserInfo userInfo = new UserInfo();
-            userInfo.setUsername("aaaaaa");
+            userInfo.setUsername("aaaaaavvvv");
             userInfo.setPassword("cccccccc");
             Integer result = userInfoMapper.insert(userInfo);
 
