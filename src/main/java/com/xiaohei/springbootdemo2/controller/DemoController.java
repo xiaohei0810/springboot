@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @Describtion
  */
 @RestController
-@RequestMapping("/xiaoheiidea")
+@RequestMapping("/xiaoheiidea1")
 public class DemoController {
 
     @Autowired
